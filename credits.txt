@@ -1,5 +1,6 @@
 
 CREDITS
+for design and template
 
 Pipeline HTML CSS Template
 http://www.templatemo.com/tm-498-stimulus
